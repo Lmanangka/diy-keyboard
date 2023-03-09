@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name "SW_SK")(type "KiCad")(uri "${KIPRJMOD}/local_lib/SW_SK.kicad_sym")(options "")(descr ""))
+  (lib (name "SW_SK")(type "KiCad")(uri "${KIPRJMOD}/local_lib/SW-SK/SW_SK.kicad_sym")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/local_lib/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "PWR_protection")(type "KiCad")(uri "${KIPRJMOD}/local_lib/PWR_protection.kicad_sym")(options "")(descr ""))
 )
