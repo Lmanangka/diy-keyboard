@@ -2020,10 +2020,10 @@
     (property "Datasheet" "" (id 3) (at 99.06 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 63aca03b-2e79-48b8-a6b7-87372d868d40))
-    (pin "1" (uuid 63aca03b-2e79-48b8-a6b7-87372d868d40))
-    (pin "2" (uuid c03aaa66-908b-45b4-932c-25c05d085f2c))
-    (pin "2" (uuid c03aaa66-908b-45b4-932c-25c05d085f2c))
+    (pin "1" (uuid 63aca03b-2e79-48b8-a6b7-87372d868d42))
+    (pin "1" (uuid 63aca03b-2e79-48b8-a6b7-87372d868d42))
+    (pin "2" (uuid c03aaa66-908b-45b4-932c-25c05d085f2e))
+    (pin "2" (uuid c03aaa66-908b-45b4-932c-25c05d085f2e))
   )
 
   (symbol (lib_id "Device:R_Small") (at 110.49 50.8 90) (unit 1)
@@ -3018,7 +3018,7 @@
       (reference "SW14") (unit 1) (value "BCKSPC") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.00u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/ab0cb3bd-2f45-47d0-997a-7015b6ed2cb8"
-      (reference "SW15") (unit 1) (value "PGUP") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
+      (reference "SW15") (unit 1) (value "DEL") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/718953a0-3d9a-426e-80c3-064011227a8a"
       (reference "SW16") (unit 1) (value "TAB") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u")
@@ -3063,7 +3063,7 @@
       (reference "SW29") (unit 1) (value "\\|") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/5148d991-eac9-438a-8727-c562a049b24a"
-      (reference "SW30") (unit 1) (value "PGDN") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
+      (reference "SW30") (unit 1) (value "PGUP") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/c0167f56-edf7-4436-95c3-3c4346daa0a5"
       (reference "SW31") (unit 1) (value "CPSLCK") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.75u")
@@ -3105,7 +3105,7 @@
       (reference "SW43") (unit 1) (value "ENTR") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.25u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/b79f768a-c8cb-44dc-9f15-c7fbf5f2278e"
-      (reference "SW44") (unit 1) (value "END") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
+      (reference "SW44") (unit 1) (value "PGDN") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/123be85f-53f2-4a00-a7e3-cdcf86bcd1b6"
       (reference "SW45") (unit 1) (value "LSHFT") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.25u")
@@ -3147,16 +3147,16 @@
       (reference "SW57") (unit 1) (value "UP") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/38d947c5-7bf9-43f1-9df4-d818fce65037"
-      (reference "SW58") (unit 1) (value "DELETE") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
+      (reference "SW58") (unit 1) (value "INS") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/3204c3f7-5790-40f1-bdfa-02200c0bc27c"
-      (reference "SW59") (unit 1) (value "LCTRL") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u")
+      (reference "SW59") (unit 1) (value "LCTRL") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/13572000-b792-4413-8614-d7fd7a73d6f4"
-      (reference "SW60") (unit 1) (value "SUPER") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u")
+      (reference "SW60") (unit 1) (value "SUPER") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/bf8acb04-0914-4db0-b1a0-2a8deccadc64"
-      (reference "SW61") (unit 1) (value "LALT") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u")
+      (reference "SW61") (unit 1) (value "LALT") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
     )
     (path "/d777be28-81e9-43bf-9f82-1a2c0d07f36c/073067c9-c7b7-4c79-a0bd-936bed7fa702"
       (reference "SW62") (unit 1) (value "SPACE") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_6.50u")
